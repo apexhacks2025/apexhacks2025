@@ -1,1 +1,3 @@
-# apexhacks2025
+# Apex Hacks 2025
+
+A WIP space hackathon!
